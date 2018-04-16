@@ -1,0 +1,27 @@
+{
+  "name": "wm-rocketmq",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rocketmq",
+    "ons"
+  ],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapleincode/wm-rocketmq.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mapleincode/wm-rocketmq/issues"
+  },
+  "homepage": "https://github.com/mapleincode/wm-rocketmq#readme",
+  "description": "",
+  "dependencies": {
+    "co": "^4.6.0",
+    "rocketmq": "^2.0.1"
+  }
+}
